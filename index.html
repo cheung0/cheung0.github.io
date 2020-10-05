@@ -1,7 +1,371 @@
 <!DOCTYPE html>
-<html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Michael Cheung</title>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <div id="mobile-menu-open" class="shadow-large">
+        <i class="fa fa-bars" aria-hidden="true"></i>
+    </div>
+    <!-- End #mobile-menu-toggle -->
+    <header>
+        <div id="mobile-menu-close">
+            <span>Close</span> <i class="fa fa-times" aria-hidden="true"></i>
+        </div>
+        <ul id="menu" class="shadow">
+            <li>
+                <a href="#about">About</a>
+            </li>
+            <li>
+                <a href="#education">Education</a>
+            </li>
+            <li>
+                <a href="#projects">Projects</a>
+            </li>
+            <li>
+                <a href="#experience">Experience</a>
+            </li>
+            <li>
+                <a href="#skills">Skills</a>
+            </li>
+            <li>
+                <a href="#contact">Contact</a>
+            </li>
+        </ul>
+    </header>
+    <!-- End header -->
+
+    <div id="lead">
+        <div id="lead-content">
+            <h1>Michael Cheung</h1>
+            <h2>Computer Science Student</h2>
+            <a href="resume.pdf" download="resume.pdf" class="btn-rounded-white">Download Resume</a>
+
+        </div>
+        <!-- End #lead-content -->
+
+        <div id="lead-overlay"></div>
+
+        <div id="lead-down">
+            <span>
+                <i class="fa fa-chevron-down" aria-hidden="true"></i>
+            </span>
+        </div>
+        <!-- End #lead-down -->
+    </div>
+    <!-- End #lead -->
+
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="project-image">
+                    <img src="images/me2.png" />
+                </div>
+                <div class="col-md-4">
+                    <h2 class="heading">About Me</h2>
+                </div>
+                <div class="col-md-8">
+                    <p>
+                        Hi! I'm a student at San Jose State University, studying Computer Science with a concentration in Mathematics. I have taken classes in CS / Math / Statistics, coded personal projects in web and mobile (iOS) development, and solved algorithms problems. I also have volunteering and teaching experiences. 
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End #about -->
+
+    <div id="education">
+        <h2 class="heading">Education</h2>
+        <div class="education-block">
+            <h3>San Jose State University</h3>
+            <span class="education-date">Aug 2019 - Present</span>
+            <h4>Bachelor of Science in Computer Science</h4>
+            <ul>
+                <li>
+                    Data Structures and Algorithms (Java)
+                </li>
+                <li>
+                    Object Oriented Design (Java)
+                </li>
+                <li>
+                    Computer Systems (MIPS Assembly Language)
+                </li>
+                <li>
+                    Intro to Data Structures (Java)
+                </li>
+                <li>
+                    Multivariable Calculus
+                </li>
+                <li>
+                    Linear Algebra
+                </li>
+                <li>
+                    Applied Probability and Statistics
+                </li>
+            </ul>
+        </div>
+
+        <div class="education-block">
+            <h3>MIT OpenCourseWare and Stanford Coursera</h3>
+            <span class="education-date">Dec 2019 - Present</span>
+            <h4>Online</h4>
+            <ul>
+                <li>
+                    Machine Learning (Python)
+                </li>
+                <li>
+                    Intro to Algorithms (Python)
+                </li>
+                <li>
+                    Intro to Programming and Computer Science (Python)
+                </li>
+            </ul>
+        </div>
+
+        <div class="education-block">
+            <h3>American High School</h3>
+            <span class="education-date">Aug 2016 - June 2019</span>
+            <h4>High School Diploma</h4>
+            <ul>
+                <li>
+                    AP Computer Science A (Java)
+                </li>
+                <li>
+                    AP Computer Science Principles (HTML / CSS / JavaScript / SQL)
+                </li>
+                <li>
+                    AP Calculus AB / BC
+                </li>
+                <li>
+                    AP Statistics
+                </li>
+            </ul>
+        </div>
+
+    </div>
+    <!-- End #education -->
+
+    <div id="projects" class="background-alt">
+        <h2 class="heading">Projects</h2>
+        <div class="container">
+            <div class="row">
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/project1.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Truth or Dare</h3>
+                        <p>
+                            Coded an iOS app using Swift with UIKit that plays the truth or dare game.
+Implemented 3 custom game modes, multiplayer functionality, and randomly generated truth or dares.
+Developed an algorithm to keep track of player turn and update a scoreboard.
+
+                        </p>
+                        <a href="https://github.com/cheung0/Truth-or-Dare">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/project2.png" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Dolphyn </h3>
+                        <p>
+                            Built a full stack website following the MVC architectural pattern that helps college students to find study buddies.
+Utilized components from Bootstrap, HTML, and CSS to style the website. 
+Created a SQLAlchemy database to store user information and an admin to delete malicious users.
+Programmed a Python backend with Flask and Jinja. 
+
+                        </p>
+                        <a href="https://github.com/cheung0/Dolphyn">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+                <!-- End .project -->
+            </div>
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/project3.jpg" />
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Social Network</h3>
+                    <p>
+                        Used data on 302 Facebook users from Stanford Network Analysis Project to implement a social network graph in Java.
+Calculated shortest number of friends away from a certain facebook user using the Breadth First Search Algorithm. Determined if two facebook users are friends or not.
+                    </p>
+                    <a href="https://github.com/cheung0/Social-Network">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/project4.jpg" />
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Speller</h3>
+                    <p>
+                        Program that checks if a word is spelled correctly. Implemented a hash table data structure and multiple hash functions in C.
+                    </p>
+                    <a href="https://github.com/cheung0/Learning-C/blob/master/pset4/dictionary.c">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="images/project5.jpg" />
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3>Secret Messenger</h3>
+                    <p>
+                        Built a chat website that allows people to communicate with privacy. Built with Python, HTML, and CSS. Used Flask-SocketIO to allow for real time communication between two users.
+                    </p>
+                    <a href="https://github.com/cheung0/Secret-Messenger">View Project</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+        </div>
+    </div>
+    <!-- End #projects -->
+
+    <div id="experience" class="background-alt">
+        <h2 class="heading">Experience</h2>
+        <div id="experience-timeline">
+
+            <div data-date="Aug 2019 – May 2019">
+                <h3>San Jose State University</h3>
+                <h4>Competitive Programmer</h4>
+                <p>
+                    Solved 140+ algorithms problems from websites such as Leetcode, Kattis, and Codeforces. Member of Competitive Programming Team, where I solve problems in competitions in teams of 3 - 4 and discuss algorithms together. 
+
+                </p>
+            </div>
+
+            <div data-date="Aug 2019 – May 2019">
+                <h3>American High School</h3>
+                <h4>Calculus 2 Teaching Assistant</h4>
+                <p>
+                    Selected as one of two students for scoring a 5 / 5 on the AP Calculus BC exam and problem solving ability.  
+Graded assignments, quizzes, and exams for 180+ students, answered questions, and tutored students. 
+
+                </p>
+            </div>
+
+            <div data-date="June 2018 - July 2018">
+                <h3>Assisting Individuals with Disabilities</h3>
+                <h4>Volunteer English Teacher</h4>
+                <p>
+                    Traveled to Taiwan on an overseas trip. Worked closely with teaching staff to develop English, Math, and sports curriculum for 80 children aged 6 - 12.
+Developed public speaking and communication skills by lecturing a classroom of children daily.
+
+                </p>
+            </div>
+
+            <div data-date="Sept 2017 – Dec 2017">
+                <h3>Fremont Main Library</h3>
+                <h4>Volunteer Tutor</h4>
+                <p>
+                    Helped kids with their homework every Thursdays. Tutored primarily in Math and Science subjects. 
+                </p>
+            </div>
+
+            <div data-date="Sept 2016 – Dec 2017">
+                <h3>FTC Robotics</h3>
+                <h4>Member</h4>
+                <p>
+                    Competed in robotics competitions around the Bay area. Coded in Robot C, a language similar to C / C++.
+                </p>
+            </div>
+        </div>
+    </div>
+    <!-- End #experience -->
+
+    <div id="skills">
+        <h2 class="heading">Skills</h2>
+        <ul>
+            <li>Python</li>
+            <li>Java</li>
+            <li>C</li>
+            <li>Swift</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>SQL</li>
+            <li>JavaScript</li>
+            <li>Mips Assembly Language</li>
+            <li>Flask</li>
+            <li>Jinja</li>
+            <li>SQLAlchemy</li>
+            <li>UIKit</li>
+            <li>SwiftUI</li>
+        </ul>
+    </div>
+    <!-- End #skills -->
+
+    <div id="contact">
+        <h2>Get in Touch</h2>
+        <div id="contact-form">
+            <form method="POST" action="https://formspree.io/email@email.com">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+        <!-- End #contact-form -->
+    </div>
+    <!-- End #contact -->
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-5 copyright">
+                    <p>
+                        Copyright &copy; 2020 Michael Cheung
+                    </p>
+                </div>
+                <div class="col-sm-2 top">
+                    <span id="to-top">
+                        <i class="fa fa-chevron-up" aria-hidden="true"></i>
+                    </span>
+                </div>
+                <div class="col-sm-5 social">
+                    <ul>
+                        <li>
+                            <a href="https://github.com/cheung0" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.linkedin.com/in/michael-cheung0/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End footer -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/scripts.min.js"></script>
 </body>
+
 </html>
