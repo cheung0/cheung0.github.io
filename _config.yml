@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Michael Cheung"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "he/him"  
+  bio              : "Computer Scientist"
   location         : "California"
   employer         : #"Red Brick University"
   uri              : # URL
