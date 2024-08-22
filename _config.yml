@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Michael Cheung"
+title                    : "Michael da"
 title_separator          : "-"
 name                     : &name "Michael Cheung"
 description              : &description "Computer Scientist"
@@ -28,7 +28,7 @@ author:
   location         : "California"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"michaelcheung882@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # michael-angelo1
+  youtube          : michael-angelo1
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings
