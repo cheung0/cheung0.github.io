@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Michael da"
+title                    : "Michael Cheung"
 title_separator          : "-"
 name                     : &name "Michael Cheung"
 description              : &description "Computer Scientist"
