@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, San Jose State University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022: Software Engineer
+  * VMware
+  * Built a software tool for offline debugging and triaging, significantly enhancing engineer productivity.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 2021: Software Development Engineer
+  * Amazon Web Services
+  * Reduced data center management time by 150% by implementing a backend service for forecasting scenarios.
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020: Coding Teacher
+  * Computer Science
+ 
+* 2019: Math Teaching Assistant
+  * Calculus
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Development
+* Machine Learning Research
 
 Publications
 ======
