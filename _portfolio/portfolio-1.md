@@ -1,6 +1,6 @@
 ---
 title: "UC Berkeley AI Hackathon"
-excerpt: "Developed an AI-powered mobile app for clothing recommendations<br/><img src='/images/500x300.png'>"
+excerpt: "Developed an AI-powered mobile app for clothing recommendations.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
