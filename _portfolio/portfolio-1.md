@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "UC Berkeley AI Hackathon"
+excerpt: "Developed an AI-powered mobile app for clothing recommendations<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
