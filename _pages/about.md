@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Computer Science grad from San Jose State University. Previously, I worked as a Software Engineer at [Amazon](https://www.amazon.com/) Web Services and [VMware](https://www.vmware.com/).
-
-I graduated with honors from San Jose State University with a degree in Computer Science.
+Hello! I'm a Computer Science new grad from San Jose State University. Previously, I worked as a Software Engineer at [Amazon](https://www.amazon.com/) Web Services and [VMware](https://www.vmware.com/).
 
 I'm interested in machine learning and artificial intelligence for improving our lives. For example, I built and did research on [AI Personal Trainer](https://cheung0.github.io/files/AI Personal Trainer Research.pdf), a computer vision model that predicts exercise quality. In addition, I worked with multimodal AI at the [UC Berkeley Hackathon](https://devpost.com/software/style-sync?ref_content=user-portfolio&ref_feature=in_progress) and built a clothing recommendations app. 
 
