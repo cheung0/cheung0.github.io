@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a Computer Science new grad from San Jose State University. Previously, I worked as a Software Engineer at [Amazon](https://www.amazon.com/) Web Services and [VMware](https://www.vmware.com/).
+Hello! I’m a Computer Science new grad from San Jose State University. Previously, I worked as a Software Engineer at [Amazon](https://www.amazon.com/) Web Services and [VMware](https://www.vmware.com/).
 
-I'm interested in machine learning and artificial intelligence for improving our lives. For example, I built and did research on [AI Personal Trainer](https://cheung0.github.io/files/AI Personal Trainer Research.pdf), a computer vision model that predicts exercise quality. In addition, I worked with multimodal AI at the [UC Berkeley Hackathon](https://devpost.com/software/style-sync?ref_content=user-portfolio&ref_feature=in_progress) and built a clothing recommendations app. 
+I’m interested in using technology for improving our lives. Here are 3 projects I’ve recently worked on: 
+1. I built a waste classification app that tells you which bin your item belongs in. You can try it on mobile at: https://sorta.onrender.com/. 
+2. I worked with multimodal AI at the [UC Berkeley Hackathon](https://devpost.com/software/style-sync?ref_content=user-portfolio&ref_feature=in_progress) and built a clothing recommendations app.
+3. I built and did research on [AI Personal Trainer](https://cheung0.github.io/files/AI Personal Trainer Research.pdf), a computer vision model that predicts exercise squat quality. 
 
-My interests include software engineering and machine learning. Especially in systems that are beneficial or useful to society. 
+My interests include software engineering and machine learning. Especially in systems that are beneficial or useful to society.
 
 My hobbies include working out and learning.
 
-If any of the above sounds interesting to you, I would love to hear from you! Feel free to reach me on linkedin.
+If any of the above sounds interesting to you, I would love to hear from you! Feel free to reach out.
