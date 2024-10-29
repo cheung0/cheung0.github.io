@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, San Jose State University, 2023
+* B.S. in Computer Science, San Jose State University
 
 Work experience
 ======
