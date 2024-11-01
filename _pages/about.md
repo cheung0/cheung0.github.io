@@ -16,6 +16,6 @@ I’m interested in using technology for improving our lives. Here are 3 project
 
 My interests include software engineering and machine learning. Especially in systems that are beneficial or useful to society.
 
-My hobbies include working out and learning.
+My hobbies include working out and learning. 
 
 If any of the above sounds interesting to you, I would love to hear from you! Feel free to reach out.
