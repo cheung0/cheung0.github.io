@@ -13,9 +13,9 @@ I’m interested in using technology for improving our lives. Here are projects 
 1. I built Snapgreen, a waste classification app that tells you which bin your item belongs in. You can try it on mobile at: [snapgreen.vercel.app](https://snapgreen.vercel.app). 
 2. I built a clothing recommendations app at the [UC Berkeley AI Hackathon](https://devpost.com/software/style-sync?ref_content=user-portfolio&ref_feature=in_progress).
 3. I built and did research on [AI Personal Trainer](https://cheung0.github.io/files/AI Personal Trainer Research.pdf), a computer vision model that predicts exercise squat quality.
-4. I made machine learning tutorials on [youtube](https://www.youtube.com/playlist?list=PLnoQBKuzSUX3YAeGaZXgJK0fElpAHT50D).
+4. I made machine learning tutorials with 100k+ views on [youtube](https://www.youtube.com/playlist?list=PLnoQBKuzSUX3YAeGaZXgJK0fElpAHT50D).
 
-My interests include software engineering and machine learning. Especially in systems that are beneficial or useful to society.
+My interests include software engineering and AI. Especially in systems that are beneficial or useful to society.
 
 My hobbies include working out and learning. 
 
