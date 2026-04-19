@@ -33,6 +33,8 @@
   "scripts": {
     "uglify": "uglifyjs node_modules/jquery/dist/jquery.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/plugins/stickyfill.min.js assets/js/_main.js -c -m -o assets/js/main.min.js",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
-    "build:js": "npm run uglify"
+    "build:js": "npm run uglify",
+    "build:site": "env DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer bundle exec jekyll build",
+    "serve:site": "env DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer bundle exec jekyll serve -l -H localhost"
   }
 }
