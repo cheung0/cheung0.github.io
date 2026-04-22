@@ -32,14 +32,14 @@ At AWS, I built CRUD APIs in Java for data center forecasting. At VMware, I deve
   </div>
 
   <div class="feature__item">
-    <img src="{{ '/assets/images/waste-classification-app.png' | relative_url }}" alt="Waste Classification Web App" style="max-width: 100%; height: auto;">
+    <img src="{{ '/assets/images/waste-classification.png' | relative_url }}" alt="Waste Classification Web App" style="max-width: 100%; height: auto;">
     <h3>Waste Classification Web App</h3>
     <p>Take a picture of an object and find out which waste bin to put it in. </p>
     <!-- <a href="https://snapgreen.vercel.app/" class="btn btn--primary">Learn More</a> -->
   </div>
 
   <div class="feature__item">
-    <img src="{{ '/assets/images/bearista-app.png' | relative_url }}" alt="Bearista iOS App" style="max-width: 100%; height: auto;">
+    <img src="{{ '/assets/images/bearista.png' | relative_url }}" alt="Bearista iOS App" style="max-width: 100%; height: auto;">
     <h3>Bearista iOS App</h3>
     <p>Tracks your caffeine levels over time, after you drink coffee or tea.</p>
     <!-- <a href="#" class="btn btn--primary">Learn More</a> -->
