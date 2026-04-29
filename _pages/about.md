@@ -11,7 +11,7 @@ I’m an incoming Master’s student in Software Engineering and Artificial Inte
 
 I’m a Computer Science graduate from San Jose State. Previously, I worked as a Software Engineer at [Amazon](https://www.amazon.com/) Web Services and [VMware](https://www.vmware.com/).
 
-At AWS, I built CRUD APIs in Java for data center forecasting. At VMware, I developed an internal data processing tool for a database.
+At AWS, I architected backend software and Java APIs to predict and forecast data center demand. At VMware, I developed an Offline Browser Editor for the Corfu database to optimize data processing.
 
 # Projects
 
@@ -35,7 +35,7 @@ At AWS, I built CRUD APIs in Java for data center forecasting. At VMware, I deve
     <img src="{{ '/assets/images/waste-classification.png' | relative_url }}" alt="Waste Classification Web App" style="max-width: 100%; height: auto;">
     <h3>Waste Classification Web App</h3>
     <p>Take a picture of an object and find out which waste bin to put it in. </p>
-    <!-- <a href="https://snapgreen.vercel.app/" class="btn btn--primary">Learn More</a> -->
+    <!-- <a href="https://snapgreen.vercel.app/" class="btn btn--primary">Live Demo</a> -->
   </div>
 
   <div class="feature__item">

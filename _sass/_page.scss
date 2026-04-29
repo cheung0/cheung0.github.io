@@ -84,6 +84,14 @@
     }
   }
 
+  a.btn,
+  a.btn:hover,
+  a.btn:focus,
+  a.btn:active,
+  a.btn:visited {
+    text-decoration: none;
+  }
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;

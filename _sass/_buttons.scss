@@ -151,3 +151,12 @@
     font-size: $type-size-7;
   }
 }
+
+.btn--primary {
+  background-color: #000;
+  color: #fff !important;
+
+  &:hover {
+    background-color: #222;
+  }
+}
