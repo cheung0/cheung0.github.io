@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an incoming Master’s student in Software Engineering and Artificial Intelligence at San Jose State University.
+I’m a Master’s student in Software Engineering and Artificial Intelligence at San Jose State University.
 
 I’m a Computer Science graduate from San Jose State. Previously, I worked as a Software Engineer at [Amazon](https://www.amazon.com/) Web Services and [VMware](https://www.vmware.com/).
 
